@@ -18,4 +18,4 @@ A passionate software developer from Kenya
 ---
 
 ### 📊 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1287Apiyo&show_icons=true&theme=dark)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1287Apiyo&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1287Apiyo&layout=compact&theme=dark)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1287Apiyo&show_icons=true&theme=dark)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1287Apiyo&theme=dark)  
