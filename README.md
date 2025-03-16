@@ -1,5 +1,5 @@
-      # Hi there! 😙 I'm Apiyo  
-A passionate software developer from Kenya  
+# Hi there! 😙 I'm Apiyo  
+A software developer 
 
 👨‍💻 All of my projects are available at **[GitHub](https://github.com/1287Apiyo/)**  
 
