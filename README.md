@@ -20,4 +20,4 @@ A software developer
 ### 📊 GitHub Stats:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1287Apiyo&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1287Apiyo&show_icons=true&theme=light)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=1287Apiyo&theme=darkhub)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1287Apiyo&theme=react-dark)
