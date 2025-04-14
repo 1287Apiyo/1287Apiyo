@@ -25,4 +25,4 @@ A software developer
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1287Apiyo&theme=react-dark)
+
